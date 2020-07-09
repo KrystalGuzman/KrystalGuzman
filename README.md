@@ -1,4 +1,15 @@
-### Hi there 👋
+## 👋 I am Krystal Guzman and I am a web developer.
+
+💬 I have a passion for helping people. So how can I help you?
+
+🔭 Check me out at https://www.krystalguzman.com/
+
+⚡ Fun fact: I run a blog to empower people to be their best self called https://www.goalsetforlife.com/
+
+## 👋 Thanks for visiting!
+
+
+
 
 <!--
 **KrystalGuzman/KrystalGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
