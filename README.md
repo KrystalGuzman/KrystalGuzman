@@ -1,4 +1,4 @@
-## 👋 I am Krystal Guzman and I am a web developer.
+## 👋 I am Krystal Guzman.
 
 💬 I have a passion for helping people. So how can I help you?
 
