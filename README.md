@@ -4,7 +4,7 @@
 
 🔭 Check me out at https://www.krystalguzman.com/
 
-⚡ Fun fact: I run a blog to empower people to be their best self called https://www.goalsetforlife.com/
+⚡ Fun fact: I empower people to be their best self through https://www.goalsetforlife.com/
 
 ## 👋 Thanks for visiting!
 
